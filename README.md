@@ -52,5 +52,5 @@ Le programme propose ensuite deux modes de lancement : mots aléatoires ou mode 
 
 ## Auteurs
 
-- Carounagarane Jayeche
-- Shayan Issac
+- Jayeche CAROUNAGARANE
+- Shayan ISSAC
